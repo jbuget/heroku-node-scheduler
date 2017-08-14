@@ -31,3 +31,7 @@ npm-debug.log
 
 # NPM lock file
 package-lock.json
+
+# IntelliJ IDEA
+.idea
+*.iml
